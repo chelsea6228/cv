@@ -8,7 +8,7 @@
 <body>
   <table cellspacing= "20">
     <tr>
-      <td><img src=1 004-003.JPG"></td>
+      <td><img src=1 004-003.jpg"></td>
       <td><h1>John Holcombe</h1>
       <p><em><strong>School Psychologist</strong></em></p>
       <p>I am a School Psychologist who works in Coweta Coounty Schools.  I have three schools assigned to me that I go to throughout a typical week.</p></td>
